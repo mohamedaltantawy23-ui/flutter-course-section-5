@@ -1,0 +1,15 @@
+name: section_5
+description: "Flutter Course Section 5 - Forms, Validation, and Routing"
+publish_to: "none"
+version: 1.0.0+1
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  go_router: ^14.8.1
+
+flutter:
+  uses-material-design: true
